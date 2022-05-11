@@ -1,6 +1,7 @@
 package org.ehrbase.fhirbridge.camel.route;
 
 import groovy.util.logging.Slf4j;
+import org.ehrbase.fhirbridge.camel.processor.PatientEHRProcessor;
 import org.springframework.stereotype.Component;
 
 @Component
